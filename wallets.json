@@ -118,5 +118,18 @@
       }
     ],
     "platforms": ["chrome"]
+  },
+  {
+    "app_name": "defiway_tonwallet",
+    "name": "Defiway TON Wallet",
+    "image": "https://fs.defiway.com/icons/defiway.png",
+    "about_url": "https://defiway.com/",
+    "bridge": [
+      {
+        "type": "js",
+        "key": "defiway_tonwallet"
+      }
+    ],
+    "platforms": ["chrome"]
   }
 ]
